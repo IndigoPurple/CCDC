@@ -8,7 +8,7 @@ tSinghua vIsual intelliGence and coMputational imAging lab ( [GitHub](https://gi
 
 
 In this repository we provide code of the paper:
-> **EFENet: Reference-based Video Super-Resolution with Enhanced Flow Estimation**
+> **Cross-Camera Deep Colorization**
 
 > Yaping Zhao, Haitian Zheng, Mengqi Ji, Ruqi Huang
 
