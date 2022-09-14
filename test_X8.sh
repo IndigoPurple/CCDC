@@ -1,4 +1,4 @@
-python train_colornet_vimeo_noloss.py  \
+python train_ccdc.py  \
 --mode test \
 --dataset demo   \
 --scale 8 \
